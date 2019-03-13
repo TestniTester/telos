@@ -1,9 +1,9 @@
 # telos
 Transcendence CORE unofficial!
-
+<br />
 
 If you have issues with wallet syncing additional data 
-
+<br />
 <b>Wallet sync issues</b>
 download windowsWaletSyncFix.bat
 and runn as admin on your windows where the wallet is (keep walet open)
@@ -17,7 +17,7 @@ Thats it!
 </ul>
 
 This is NOT gonna work if you are on WiFi
-
+<br /><br /><br />
 <b>New wallet</b>
 If you have brand new install of wallet you can download last bootstrap file.
 
@@ -29,7 +29,7 @@ If you have brand new install of wallet you can download last bootstrap file.
 <li>5. open wallet.... (wallet should sync really fast)</li>
 </ul>
 
-
+<br /><br /><br /><br />
 
 If you get any value from this you can 
 send me some TELOS Donation 
