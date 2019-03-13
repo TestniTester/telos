@@ -4,7 +4,7 @@ Transcendence CORE unofficial!
 
 If you have issues with wallet syncing additional data 
 
-<b>Wallet sync issues<b>
+<b>Wallet sync issues</b>
 download windowsWaletSyncFix.bat
 and runn as admin on your windows where the wallet is (keep walet open)
 
@@ -16,7 +16,7 @@ Thats it!
 
 This is NOT gonna work if you are on WiFi
 
-
+<b>New wallet</b>
 If you have brand new install of wallet you can download last bootstrap file.
 
 Open file explorer and type in %appdata%/Transcendence
