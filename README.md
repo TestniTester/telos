@@ -20,6 +20,8 @@ This is NOT gonna work if you are on WiFi
 <br /><br /><br />
 <b>New wallet</b>
 If you have brand new install of wallet you can download last bootstrap file.
+Download the last bootsrap <a href="http://95.216.225.188/bootstrap-1.rar">HERE</a>
+
 
 </ul>
 <li>1. Open file explorer and type in %appdata%/Transcendence</li>
