@@ -35,7 +35,8 @@ Download the last bootsrap <a href="http://95.216.225.188/bootstrap-1.rar">HERE<
 <b>Check if any nodes are offline</b>
 check_my_nodes.sh
 <ul>
-  <li>Script will check all nodes and tell you if you have anny offline nodes</li>  
+  <li>Script will check all nodes and tell you if you have anny offline nodes</li>
+  <li>If you want to runn the screep on a loop, lets say every 60 seconds do it like => watch -n 60 ./chknodes.sh</li>
 </ul>
 <br /><br /><br /><br />
 
