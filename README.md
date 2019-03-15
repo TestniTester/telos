@@ -31,6 +31,12 @@ Download the last bootsrap <a href="http://95.216.225.188/bootstrap-1.rar">HERE<
 <li>5. open wallet.... (wallet should sync really fast)</li>
 </ul>
 
+
+<b>Check if any nodes are offline</b>
+check_my_nodes.sh
+<ul>
+  <li>Script will check all nodes and tell you if you have anny offline nodes</li>  
+</ul>
 <br /><br /><br /><br />
 
 If you get any value from this you can 
