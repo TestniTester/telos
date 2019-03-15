@@ -1,5 +1,5 @@
-# telos
-Transcendence CORE unofficial!
+# TELOS
+Transcendence CORE unofficial tools for wallet and NODES!
 <br />
 
 If you have issues with wallet syncing additional data 
